@@ -27,7 +27,7 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
 <p align="left">
   Estudo Bioinformática e tenho curiosidade sobre [TEMA].<br>
   🔭 Gostava de investigar [PERGUNTA SIMPLES].<br>
-  📚 Neste momento estou a aprender [ALGO QUE ESTEJAS A APRENDER].<br>
+  📚 Neste momento estou a aprender a trabalhar com bashs.<br>
   ⚡ Fora das aulas gosto de [ATIVIDADE OPCIONAL].
 </p>
 
